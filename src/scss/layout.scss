@@ -1,0 +1,14 @@
+.sample-header,
+.sample-footer{
+  height: 50px;
+  background-color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+.sample-layout-ctnr {
+  background-color: #282c34;
+  min-height: calc(100vh - 100px);
+  font-size: calc(30px + 2vmin);
+  font-weight: 600;
+  color: white;
+}

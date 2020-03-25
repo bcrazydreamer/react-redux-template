@@ -1,0 +1,13 @@
+//----Loader----
+.bcd-main-loader-ctnr{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: $loader-background;
+    z-index: 9999999999;
+}
+.bcd-normal-loader{
+    color: $loader-spinner-color !important;
+}
